@@ -1,0 +1,1 @@
+"""BistroGuard AI - Restaurant Support & Operations Agent Package."""
